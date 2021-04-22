@@ -7,4 +7,4 @@
 | [Destinations - Ride Share](https://github.com/Bradley5922/Countdown-CS-Project/blob/main/Destinations/)      | My first project I started. I did not complete this project becuase I lost the code due to me getting my Mac repaired and Apple wipping my computer. But I didn't have the folder in iCloud drive desktop for various reason. I am very stupid. <br> However I still have the report document I started with full analysis and desgin (maybe more indepth than my other one, so use that as evidence for that if the other project is lacking. At the end of the day I did nearly finsh this project. With the report have 60+ pages<br>[[Link To Half Completed Report]](https://github.com/Bradley5922/Countdown-CS-Project/blob/main/Destinations/report%20PDF%20version%20.pdf)|
 
 <b>Enjoy the read!</b><br>
-<i>Bradley</i>
+<i>Bradley :)</i>
