@@ -12,7 +12,7 @@
 <li>Now I know you can't run it youself becuase if I'm not mistaken your an Android user. But if you want a demonstration between now and end of exams I will happily show you. Any time after that, just email me.</li>
 <li>My main write up is quite large and wont let you display it in GitHub browser so you'll probably have to download it</li>
 <li>There is a few bits that are very very very "Apple", I tried to explain some of those things. If you want me to go into more detail, you can again email me any time</li>
-<ul>
+</ul>
   
 <b>Enjoy the read!</b><br>
 <i>Bradley :)</i>
