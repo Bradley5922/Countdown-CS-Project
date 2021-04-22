@@ -1,4 +1,4 @@
-# A Level Computer Science Coding Project (NEA)
+# A-Level Computer Science Coding Project (NEA)
 
 ## Contents
 | Directory   | Description |
